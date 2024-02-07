@@ -1,0 +1,67 @@
+.header{
+    height: 100px;
+    background-color: rgb(85, 189, 189);
+    text-align: center;
+    color: black;
+margin: 1%;
+}
+.side{
+display: flex;
+
+}
+.rightside{
+width: 40%;
+height: 300px;
+background-color: rgb(179, 228, 228);
+text-align: center;
+color: black;
+}
+.image{
+    width:100%;
+    height: 150px;
+    background-color: rgb(114, 190, 164);
+}
+.action{
+
+  width:100%;
+height: 100px;
+background-color: rgb(114, 190, 164);
+}
+
+.leftside{
+    width: 60%;
+    height: 300px;
+    background-color: rgb(124, 182, 230);
+text-align: center;
+color: black;
+margin-left: 2%;
+}
+.FEATURE{
+height: 100px;
+background-color: rgb(137, 199, 199);
+text-align: center;
+color: black;
+margin-top: 1%;
+margin-bottom: 2%;
+}
+.COPY{
+   display: flex;
+}
+.moreone{
+height: 200pX;
+width: 50%;
+background-color: rgb(141, 229, 200);
+text-align: center;
+}
+.MORE{
+    eight: 200pX;
+    width: 50%;
+    background-color: rgb(185, 227, 213);
+    text-align: center;
+    margin-left: 1%;
+}
+.footer{
+height: 100px;
+text-align: center;
+background-color: rgb(111, 182, 182);
+}
